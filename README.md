@@ -1,7 +1,7 @@
 # SoundLevelMeter
 Matlab GUI app that emulates a sound level meter for wav files.
 
-2013 - v1.0 Guilhem Mariotte
+v1.0 - 2013. Guilhem Mariotte
 
 Basic features
 --------------
