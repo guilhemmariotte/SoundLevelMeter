@@ -9,6 +9,8 @@ Basic features
 - Display of 1/3-octave band spectrum in A, C and Z-weighting
 - Work with .WAV input files
 
+![Image](SLM_capture.png "capture")
+
 Further extensions
 ------------------
 - Sound pressure levels for the frequency A and C-weighting
